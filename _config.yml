@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anders Valind"
   avatar           : "profile.png"
-  bio              : "Physician-Scientist"
+  bio              : ""
   location         : "Malmö, Sweden"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Valind+A&sort=date"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
